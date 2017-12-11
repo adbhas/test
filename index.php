@@ -1,5 +1,5 @@
 <?php
 
-echo 'hello word';
+echo 'hello GitHub ';
 
 ?>
